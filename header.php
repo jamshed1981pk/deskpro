@@ -120,7 +120,7 @@
 <?php wp_nav_menu( array('menu' => 'pages','items_wrap' => '<ul class="nav nav nav-pills">%3$s</ul>'  )); ?> </div>
 <div class="span2"><?php get_search_form(); ?></div>
 </div>
- </div><!--/container -->
+</div>
 
 <!--End 2nd Top nav Bar with logo -->	
 </header>      

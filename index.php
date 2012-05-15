@@ -49,6 +49,7 @@ if ( has_post_thumbnail() ) { // check if the post has a Post Thumbnail assigned
     </div>
     </div>
    <div class="hero-unit"></div>
+    <!--1st box content-->
  <div class="row-fluid">
  <div class="span3">
  <div class="box"></div>
@@ -68,11 +69,12 @@ if ( has_post_thumbnail() ) { // check if the post has a Post Thumbnail assigned
   <div class="span3">
    
  <div class="box"></div>
- <h1>Branding  </h1>
+ <h1>Branding</h1>
   <p>By managing your email with Desk.com's real-time Agent, you and your team can coordinate responses to ensure customers receive a single, consistent answer.</p>
  </div>
  
- </div>   
+ </div> 
+  <!--2nd box content-->  
 <div class="row-fluid">
  <div class="span3">
  <div class="box"></div>
@@ -84,33 +86,35 @@ if ( has_post_thumbnail() ) { // check if the post has a Post Thumbnail assigned
  <h1>Integrate & SSO </h1>
   <p>By managing your email with Desk.com's real-time Agent, you and your team can coordinate responses to ensure customers receive a single, consistent answer.</p>
  </div>
-  <div class="span3">
- <div class="box"></div>
-  <h1>Multi–Lingual </h1>
-  <p>By managing your email with Desk.com's real-time Agent, you and your team can coordinate responses to ensure customers receive a single, consistent answer.</p>
- </div>
-  <div class="span3">
+ <div class="span3">
    
  <div class="box"></div>
- <h1>Branding  </h1>
+ <h1>Multi–Lingual  </h1>
   <p>By managing your email with Desk.com's real-time Agent, you and your team can coordinate responses to ensure customers receive a single, consistent answer.</p>
  </div>
+  <div class="span3">
+ <div class="box"></div>
+  <h1>Facebook & Twitter</h1>
+  <p>By managing your email with Desk.com's real-time Agent, you and your team can coordinate responses to ensure customers receive a single, consistent answer.</p>
+ </div>
+  
  
  </div>
+  <!--3rd box content-->
 <div class="row-fluid">
  <div class="span3">
  <div class="box"></div>
- <h1>Tickets & Email </h1>
+ <h1>Extensive Reporting </h1>
   <p>By managing your email with Desk.com's real-time Agent, you and your team can coordinate responses to ensure customers receive a single, consistent answer.</p>
  </div>
   <div class="span3">
  <div class="box"></div>
- <h1>Self Service </h1>
+ <h1>Teamwork </h1>
   <p>By managing your email with Desk.com's real-time Agent, you and your team can coordinate responses to ensure customers receive a single, consistent answer.</p>
  </div>
   <div class="span3">
  <div class="box"></div>
-  <h1>Live Chat  </h1>
+  <h1>Fantastic Support </h1>
   <p>By managing your email with Desk.com's real-time Agent, you and your team can coordinate responses to ensure customers receive a single, consistent answer.</p>
  </div>
   <div class="span3">
@@ -121,7 +125,13 @@ if ( has_post_thumbnail() ) { // check if the post has a Post Thumbnail assigned
  </div>
  
  </div>  
-<div class="row-fluid"></div>   
+  <!--4th box content-->
+<div class="row-fluid">
+<div calss="span4 grayline">&nbsp;</div>
+<div calss="span4"><span class="btn btn-danger">30–Day Free Trial</span></div>
+<div calss="span4"></div>
+
+</div>   
      <div class="row-fluid"></div>      
     </div>
 

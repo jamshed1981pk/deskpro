@@ -9,24 +9,13 @@
  * @since Twenty Eleven 1.0
  */
 ?>
-
-<div class="container">	
-	<footer>
-
-			<?php
-				/* A sidebar in the footer? Yep. You can can customize
-				 * your footer with three columns of widgets.
-				 */
-				if ( ! is_404() )
-					get_sidebar( 'footer' );
-			?>
-
-			<div id="site-generator">
-				<?php do_action( 'twentyeleven_credits' ); ?>
-				<a href="<?php echo esc_url( __( 'http://wordpress.org/', 'twentyeleven' ) ); ?>" title="<?php esc_attr_e( 'Semantic Personal Publishing Platform', 'twentyeleven' ); ?>" rel="generator"><?php printf( __( 'Proudly powered by %s', 'twentyeleven' ), 'WordPress' ); ?></a>
-			</div>
-	</footer>
  </div> <!-- /container -->
+
+	<footer>
+<div class="row footertop"></div>
+<div class="row"></div>
+			
+	</footer>
 
 <?php wp_footer(); ?>
 
